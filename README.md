@@ -1,6 +1,13 @@
 # Stock Analysis Dashboard
 
-![Dashboard Preview]() 
+![Dashboard Preview](./image/page1.png)
+![Dashboard Preview](./image/page2.1.png) 
+![Dashboard Preview](./image/page2.2.png) 
+![Dashboard Preview](./image/page2.3.png) 
+![Dashboard Preview](./image/page3.1.png) 
+![Dashboard Preview](./image/page3.2.png) 
+![Dashboard Preview](./image/page4.1.png) 
+![Dashboard Preview](./image/page4.2.png)  
 
 A full-stack financial analysis platform with React.js frontend and FastAPI backend that displays key stock ratios, provides stock screening functionality, and manages analyst reports.
 
