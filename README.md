@@ -62,6 +62,5 @@ A full-stack financial analysis platform with React.js frontend and FastAPI back
 ```mermaid
 graph TD
     A[React Frontend] -->|HTTP Requests| B(FastAPI Backend)
-    B --> C[(PostgreSQL)]
-    B --> D[(Redis Cache)]
+    B --> C[(DB)]
     B --> E[External Financial APIs]
