@@ -53,9 +53,7 @@ A full-stack financial analysis platform with React.js frontend and FastAPI back
 - FastAPI
 - Pydantic (data validation)
 - SQLAlchemy (ORM)
-- PostgreSQL (database)
-- JWT (authentication)
-- Redis (caching)
+- Database
 
 ## System Architecture
 
