@@ -18,8 +18,6 @@ A full-stack financial analysis platform with React.js frontend and FastAPI back
   - Balance sheet metrics
   - Income statement ratios
   - Cash flow indicators
-  - Trend visualization
-  - Comparison with industry averages
 
 - **Stock Screener**
   - Filter by market cap, P/E ratio, sector, etc.
@@ -34,7 +32,6 @@ A full-stack financial analysis platform with React.js frontend and FastAPI back
 ### Backend
 - **FastAPI** RESTful endpoints
 - **Pydantic** type validation
-- **JWT Authentication**
 - **Financial Data Processing**
 - **Report Storage Management**
 
