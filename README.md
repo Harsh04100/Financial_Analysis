@@ -58,4 +58,4 @@ A full-stack financial analysis platform with React.js frontend and FastAPI back
 graph TD
     A[React Frontend] -->|HTTP Requests| B(FastAPI Backend)
     B --> C[(DataBase)]
-    B --> E[External Financial APIs]
+    B --> D[External Financial APIs]
