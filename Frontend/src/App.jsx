@@ -90,7 +90,7 @@ function AppLayout() {
       <AppBar position="sticky" elevation={1}>
         <Toolbar sx={{ justifyContent: 'space-between' }}>
           <Typography variant="h6" component="div" sx={{ fontWeight: 700 }}>
-            <Box component="span" sx={{ color: 'primary.main' }}>Financial Analysis</Box>
+            <Box component="span" sx={{ color: 'primary.main' }}>Fin-Tastic</Box>
           </Typography>
           
           {!isMobile && (
@@ -214,7 +214,7 @@ function HomePage() {
           WebkitTextFillColor: 'transparent'
         }}
       >
-        Welcome to Financial Analysis
+        Welcome to Fin-Tastic
       </Typography>
       <Typography variant="h6" color="text.secondary" sx={{ maxWidth: 600, mb: 4 }}>
         Your comprehensive financial analysis platform for stock research, screening, and reporting
